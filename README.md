@@ -1,11 +1,11 @@
 # RESTful
 
-#SQL
+# SQL
 <li> MS Sql </li>
-table: Products and Categories
-Products: Id, ProductName, ProductDescription, CategoryId, ProductPrice, ProductCurrency.
-Categories: Id, CategoryName, CategoryDescription.
-Relationship: Products - CategoryId => Categories - Id
+Tables: Products and Categories <br> 
+Products: Id, ProductName, ProductDescription, CategoryId, ProductPrice, ProductCurrency. <br>
+Categories: Id, CategoryName, CategoryDescription. <br>
+Relationship: Products - CategoryId => Categories - Id <br>
 <br>
 <br>
 <h1>Screenshots
