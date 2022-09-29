@@ -1,6 +1,6 @@
 # RESTful
 
-##SQL
+#SQL
 <li> MS Sql </li>
 table: Products and Categories
 Products: Id, ProductName, ProductDescription, CategoryId, ProductPrice, ProductCurrency.
